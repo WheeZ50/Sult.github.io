@@ -1,0 +1,60 @@
+Large Cargohold Optimization I
+Large Processor Overclocking Unit I
+Medium Capacitor Control Circuit I
+Medium Cargohold Optimization I
+Medium Core Defense Field Purger I
+Medium Gravity Capacitor Upgrade I
+Medium Mercoxit Mining Crystal Optimization I
+Small Anti-Explosive Pump I
+Small Anti-Kinetic Screen Reinforcer I
+Small Cargohold Optimization I
+Small Core Defense Field Extender I
+Small Hybrid Burst Aerator I
+Small Hybrid Collision Accelerator I
+Small Trimark Armor Pump I
+
+
+<table class="gridtable">
+  <tr>
+    <td>Small Anti-Explosive Pump I</td><td>800.000</td>
+  </tr>
+  <tr>
+    <td>Small Anti-Kinetic Screen Reinforcer I</td><td>100.000</td>
+  </tr>
+  <tr>
+    <td>Small Cargohold Optimization I</td><td>825.000</td>
+  </tr>
+  <tr>
+    <td>Small Core Defense Field Extender I</td><td>1.000.000</td>
+  </tr>
+  <tr>
+    <td>Small Hybrid Burst Aerator I</td><td>100.000</td>
+  </tr>
+  <tr>
+    <td>Small Hybrid Collision Accelerator I</td><td>100.000</td>
+  </tr>
+  <tr>
+    <td>Small Trimark Armor Pump I</td><td>675.000</td>
+  </tr>
+  <tr>
+    <td>Medium Capacitor Control Circuit I</td><td>2.650.000</td>
+  </tr>
+  <tr>
+    <td>Medium Cargohold Optimization I</td><td>3.500.000</td>
+  </tr>
+  <tr>
+    <td>Medium Core Defense Field Purger I</td><td>3.850.000</td>
+  </tr>
+  <tr>
+    <td>Medium Gravity Capacitor Upgrade I</td><td>200.000</td>
+  </tr>
+  <tr>
+    <td>Medium Mercoxit Mining Crystal Optimization I</td><td>3.250.000</td>
+  </tr>
+  <tr>
+    <td>Large Cargohold Optimization I</td><td>17.000.000</td>
+  </tr>
+  <tr>
+    <td>Large Processor Overclocking Unit I</td><td>940.000</td>
+  </tr>
+</table>

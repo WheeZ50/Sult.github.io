@@ -1,0 +1,45 @@
+Caldari Fuel Block
+Minmatar Fuel Block
+Station Container
+
+Small Caldari Control Tower
+Small Freight Container
+Medium Freight Container
+Large Freight Container
+Huge Freight Container
+Giant Freight Container
+
+
+
+<table class="gridtable">
+  <tr>
+    <td>Caldari Fuel Block</td><td>14.000</td>
+  </tr>
+  <tr>
+    <td>Minmatar Fuel Block</td><td>14.000</td>
+  </tr>
+  <tr>
+    <td>Station Container</td><td>250.000</td>
+  </tr>
+  <tr>
+    <td></td><td></td>
+  </tr>
+  <tr>
+    <td>Small Caldari Control Tower</td><td>75.000.000</td>
+  </tr>
+  <tr>
+    <td>Small Freight Container</td><td>75.000</td>
+  </tr>
+  <tr>
+    <td>Medium Freight Container</td><td>100.000</td>
+  </tr>
+  <tr>
+    <td>Large Freight Container</td><td>125.000</td>
+  </tr>
+  <tr>
+    <td>Huge Freight Container</td><td>175.000</td>
+  </tr>
+  <tr>
+    <td>Giant Freight Container</td><td>250.000</td>
+  </tr>
+</table>
