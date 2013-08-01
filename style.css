@@ -217,7 +217,7 @@ a {
 
 
 table.gridtable {
-	table-layout: fixed;
+	table-layout: auto;
 	color: #6B7272;
 	font-size: 9pt;
 	width:450px;
@@ -228,5 +228,5 @@ table.gridtable {
 
 table.gridtable td {
 	background-color: transparent;
-	border-color: #6B7272;
+	border: 1px solid #999999;
 }
