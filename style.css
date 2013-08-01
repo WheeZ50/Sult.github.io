@@ -217,12 +217,15 @@ a {
 
 
 table.gridtable {
- 	table-layout: fixed;
- 	padding: 20px;
- 	color: #6B7272;
+	table-layout: auto;
+	color: #6B7272;
 	font-weight: bold;
-	width:100%;
+	width:450px;
+	padding: 20px;
 }
+.cel1 {width: 350px;}
+.cel2 {width: 100px;}
+
 table.gridtable td {
 	width: 75%;
 	background-color: transparent;
