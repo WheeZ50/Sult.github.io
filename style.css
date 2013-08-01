@@ -1,4 +1,5 @@
 body {
+	overflow-y:scroll;
 	background-image:url(images/background.gif);
 	font-family: Verdana, Arial, Helvetica, sans-serif;
 	font-size: 12px;
@@ -217,6 +218,7 @@ a {
 
 table.gridtable {
  	table-layout: fixed;
+ 	padding: 20px;
  	color: #6B7272;
 	font-weight: bold;
 	width:100%;
